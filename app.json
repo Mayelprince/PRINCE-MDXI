@@ -1,5 +1,5 @@
 {
-  "name": "prince-mdx",
+  "name": "RDX RAHUL",
   "version": "3.0.0",
   "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID"PRINCE-MD~H4sIAAAAAAAAA61Ua4+iSBT9L/VVM/IGTTpZQBC0sRXfbvZDCQUU8iirSlp74n+fYHfPdDKzM73J8qmox73n3Hvu+QqqGjM0QVcw+AoIxQ3kqF3yK0FgAKxzkiAKuiCGHIIBGFkzU7PGkWGaM89ngavKVXhURoRV62knKHLHELOe0kkl8wHcuoCcDwWOfhOw0a3R0HH0J3XZuFodq8aiNEaarTk5fe5pPS5t/HBld5ZF+gBubUSIKa5Sh2SoRBQWE3SdQUw/B39hLqLSmZnB0RnVFt5dIjmnBz9+kqtzki07pZqSi7E9LNbR5+CLxTTVTYyHgSKwaRQeoepHbmetz514h+aLUy99UrP9qJKCV/gMpxWK/RhVHPPrp+tem9tHskl7+2K/v6R9d5cXekda+HFd2epxtzxtxQ5bd9Tlln0OuGGR0B0uZlHSKVAs88cnyvSGTVU7kD28FIkUpwlbOB72PwKf0XetHP9L3SNrWQ7Hyfr4YhwmUyXf5yTWDnZuHpfFcyfKxsMXuN2Jx8dV/Tn424lkOPpuuyKT3DuElDcn8alK8900YN7L8aQITBiTme6GH+BDfqa/QwnzkPV8WjGHpJP9KhjuAyFwDCiJTTntT0bFFTdeflgNx/ZspmLca6JJeGLlajUSayJVAssnezuKpouzbDqdROhoSmY+3Bkd0dWPwUC8dQFFKWacQo7rqt2TZLULYNwsUEQRv5cX+NrUWBHDI15oXV+4/7xaBm7hmhPNFUWjH48aq4w3m3WwDx5AFxBaR4gxFHuY8ZpeA8QYTBEDg7/vnWpJU1TWHI1xDAagr2lqX1Y1Q9f0v9iX5wxyBgn5UiEOuiChdRkgMOD0jLrg/sBQVVcVhL6oS7ou9gVTVSxJtBVFduW+LQ9biuVr0iUuEeOwJGAg6qoiyLqo67fu/4NDcWXRUUVZNg1Fs3TbcS1LcFVVFQ3XVWTnjzj+6YIKXfirjtvqy2IXJJgyvqrOpKhh/C7y90MYRfW54otrFdntAlEw+LCNOMdVylpm5wrSKMMNslseYJDAgqHvDUcUxe9c3kzMruNWh3PNe7TG3hC02NtAP9VmIEo/l6eC7W1wqK+gC4r7G0mUZUlStX5f1DRRaZ+1B7fvcNvoMeIQFwwMgD3Lo+KwcpyJLrNoPhqZfmraqQl+0Hsfm1dZdngTyR7d+nm2d8buCa43bn4+1nIRxUq0yaP5Yji3+gzZ/sMvgoABOC/twA/3u+alzvI5KZbPL9fn63ExDqeeJ7zMN4udnY0qB4a01F39Is5CZWpWmj1Ve8JW9Hr2bpPZSy2pTrte0hPFZa1Z84c2W4waHKGPyfDpcrz41iHNkbHmK23X9FQ/JvA0zvDs6SJ0jCcsVc+TbRFqupqbgry0dJNnMlfnwcQk1LweYkKcviaWzab0LvHBzNPXgb4bSvFm5Pht1PD9N8Ho7otvDfpjI1+Bt3oTbt0PMd6c9l/cykroQZ5eNPHqK5vQDmFZrLOdTiZTdeshz61lx0kFMzl4KQa3VvikgDypaQkGgJUHCLqA1udWvX6V1L/JZJu+b7/5WAEZN39MxK+GTH29NaM18SDLwADMNkfVatV9NQlZcMjf5wuY7ee5Lrh9A6WR+lGKCAAA: {
       "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
       "required": true,
       "value": ""
@@ -27,7 +27,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "966593568767"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -57,7 +57,7 @@
     "AUTO_LIKE_EMOJIS": {
       "description": "Input your custom status like emoji(s) else leave to use default emojis. Only works if autolike status is 'true'",
       "required": false,
-      "value": "💜,💛,❤️,🤍,💙"
+      "value": "💜,💛,❤️,🤍,💙,👑, 😌,💕,💘,🫣,👑,😁,😲,⭐,🥰,😍,🧐"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
