@@ -21,7 +21,7 @@
         "@google/generative-ai": "0.21.0",
         "@octokit/rest": "^22.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.0",
+        "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.5",
         "api-dylux": "latest",
         "async-g-i-s": "^1.5.5",
         "axios": "^1.11.0",
