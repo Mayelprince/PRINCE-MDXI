@@ -5,7 +5,8 @@
     "author": "Prince Tech",
     "license": "MIT",
     "scripts": {
-        "start": "pm2 start prince-mdx.js --deep-monitoring --attach --name prince-mdx",
+        "start": "node prince-mdx.js",
+        "start:pm2": "pm2 start prince-mdx.js --deep-monitoring --attach --name prince-mdx",
         "stop": "pm2 stop prince-mdx",
         "restart": "pm2 restart prince-mdx && pm2 logs",
         "stash": "git stash && git stash drop"
@@ -21,7 +22,6 @@
         "@google/generative-ai": "0.21.0",
         "@octokit/rest": "^22.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.5",
         "api-dylux": "latest",
         "async-g-i-s": "^1.5.5",
         "axios": "^1.11.0",
@@ -59,6 +59,8 @@
         "pg": "^8.14.1",
         "pino": "^9.9.0",
         "pm2": "latest",
+        "prince-baileys": "npm:gifted-baileys@2.0.6",
+        "prince-btns": "github:Mayelprince/prince-btns",
         "puppeteer": "^24.4.0",
         "qrcode": "^1.5.4",
         "qrcode-terminal": "^0.12.0",
