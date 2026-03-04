@@ -4,6 +4,10 @@
     "description": "Prince Mdx is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
     "author": "Prince Tech",
     "license": "MIT",
+    "engines": {
+  "node": "20.x",
+  "npm": "10.x"
+},
     "scripts": {
         "start": "node prince-mdx.js",
         "start:pm2": "pm2 start prince-mdx.js --deep-monitoring --attach --name prince-mdx",
