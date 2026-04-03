@@ -2,7 +2,15 @@
   "name": "PRINCE-MDX",
   "description": "PRINCE-MDX is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/refs/heads/main/menun.jpg",
-  "keywords": ["whatsapp user bot", "user bot", "nodejs", "bot", "whatsapp bot", "multi device", "yasiya-md"],
+  "keywords": [
+    "whatsapp user bot",
+    "user bot",
+    "nodejs",
+    "bot",
+    "whatsapp bot",
+    "multi device",
+    "yasiya-md"
+  ],
   "success_url": "/",
   "env": {
     "SESSION_ID": {
@@ -12,7 +20,10 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ],
   "stack": "heroku-24"
