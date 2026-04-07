@@ -8,8 +8,7 @@
     "nodejs",
     "bot",
     "whatsapp bot",
-    "multi device",
-    "yasiya-md"
+    "multi device"
   ],
   "success_url": "/",
   "env": {
