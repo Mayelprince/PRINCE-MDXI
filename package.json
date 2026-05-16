@@ -5,7 +5,7 @@
     "author": "Prince Tech",
     "license": "MIT",
     "engines": {
-  "node": "20.x",
+  "node": "22.x",
   "npm": "10.x"
 },
     "scripts": {
